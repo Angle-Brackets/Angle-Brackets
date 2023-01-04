@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello! 👋
+Here you can find my personal projects that might be coded somewhat competently, though that is not promised.
 
-<!--
-**Angle-Brackets/Angle-Brackets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+- I enjoy programming in Java, Python, and C the most, but I also know C++, R, Lua, and Javascript as well!
+- I am currently interested in low-level programming as well as AI programming, and currently am involved in research regarding AI modeling.
+- My favorite things to code are simulations/interactable programs the most, so that's why there is code for 2 graphical engines on this github.
+- Favorite video game series is Mario, with Super Mario Sunshine being my favorite game. It is a **big** reason why I was interested in Computer Science from such a young age!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif">
+</p>
