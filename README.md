@@ -9,5 +9,10 @@ Here you can find my personal projects that might be coded somewhat competently,
 - Favorite video game series is Mario, with Super Mario Sunshine being my favorite game. It is a **big** reason why I was interested in Computer Science from such a young age!
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Angle-Brackets" width=640>
+</p>
+
+
+<p align="center">
 <img src="https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif">
 </p>
